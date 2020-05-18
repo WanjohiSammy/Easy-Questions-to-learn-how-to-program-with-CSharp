@@ -2,7 +2,7 @@
 
 With nothing much to write lets get to business :muscle:
 
-#### Exercise 1
+#### Exercise 1 / 2020-05-18
 - Define a class Human with properties "first name" and "last name". Define
 the class Student inheriting Human, which has the property "mark". Define
 the class Worker inheriting Human with the property "wage" and "hours
